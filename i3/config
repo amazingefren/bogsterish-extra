@@ -1,0 +1,8 @@
+
+# class   *Bogsterish*   border    bg     fg    indicator   child_border
+client.focused          #627D9D #526984 #E5DED7  #627D9D     #627D9D
+client.focused_inactive #161C23 #161C23 #C7B8AE  #161C23     #161C23
+client.unfocused        #161C23 #161C23 #C7B8AE  #161C23     #161C23
+client.urgent           #161C23 #DC5B80 #161C23  #DC5B80     #DC5B80
+client.placeholder      #161C23 #161C23 #C7B8AE  #161C23     #161C23
+client.background       #C7B8AE
